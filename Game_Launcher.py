@@ -1662,4 +1662,5 @@ def shashki():
     pygame.quit()
 
 
+# IT'S VERY IMPORTANT STRING
 start_screen()
